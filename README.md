@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patdoctype
 - 👀 I’m interested in Sports and Coffee
-- 🌱 I’m currently learning Web Development
+- 🌱 Currently extending my Web Development knowledge.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
